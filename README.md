@@ -6,8 +6,8 @@ A simple Flutter app that displays articles from an API with search and favorite
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd flutter_article_app
+   git clone https://github.com/anandat/BharatNXT.git
+   cd BharatNXT
    ```
 
 2. Get the dependencies:
