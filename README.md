@@ -20,7 +20,7 @@ A simple Flutter app that displays articles from an API with search and favorite
    flutter run
    ```
 
-## 🧠 State Management
+## State Management
 
 This app uses the **BLoC pattern** (`flutter_bloc`) for state management.
 - `HomeBloc` handles loading articles, searching, and toggling favorites.
